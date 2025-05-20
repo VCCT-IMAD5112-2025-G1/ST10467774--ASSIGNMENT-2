@@ -53,7 +53,7 @@ class QuizActivity2 : AppCompatActivity() {
         falseButton = findViewById<Button>(R.id.falseButton)
         nextButton = findViewById<Button>(R.id.nextButton)
 
-        // Show the first question
+        // Show the first question for the user
         showQuestion()
 
         // Handle "True" button
