@@ -22,7 +22,6 @@ class MainActivity : AppCompatActivity() {
             finish()
             // Closes the Welcome screen
             // }
-
         }
 
     }

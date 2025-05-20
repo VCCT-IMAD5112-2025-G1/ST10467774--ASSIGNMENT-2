@@ -89,7 +89,6 @@ private fun showQuestion() {
     trueButton.isEnabled = true
     falseButton.isEnabled = true
 }
-
     private fun question(i: Int) {}
 
     // Check if the user's answer is correct
